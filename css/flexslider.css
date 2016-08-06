@@ -379,6 +379,7 @@ html[xmlns] .slides {display: block;}
 	font-weight:900;
 	color:#333;
 	background-color:#fff;
+	white-space: nowrap;
 }
 .top_slider .slide_btn:hover {background-color:#1c1c1c; color:#fff;}
 
